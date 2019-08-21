@@ -1,11 +1,11 @@
 +++
-title = "How To Setup Meghna Hugo"
+title = "How To Setup Airspace Hugo"
 date = "2019-3-06T21:49:20+02:00"
 description = "This is meta description for blog page"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["starting"]
 author = "Themefisher"
-image = "images/blog/meghna.png"
+image = "img/blog/blog-post-1.jpg"
 +++
 
 ## Install this template by following those simple steps:
@@ -26,17 +26,17 @@ hugo new site <new_project>
 ### STEP-3 : Install the theme
 Run this command
 ```
-hugo new site meghna-hugo
+hugo new site airspace-hugo
 ```
-and then go to the themes folder inside of meghna-hugo folder. You can also use this command ```cd meghna-hugo/themes``` for going to this folder.
+and then go to the themes folder inside of airspace-hugo folder. You can also use this command ```cd airspace-hugo/themes``` for going to this folder.
 Then run the command 
 ```
-git clone git@github.com:themefisher/meghna-hugo.git
+git clone git@github.com:themefisher/airspace-hugo.git
 ```
 
-Alternatively, you can [download the theme as .zip](https://github.com/themefisher/meghna-hugo/archive/master.zip) file and extract it in the `themes` directory
+Alternatively, you can [download the theme as .zip](https://github.com/themefisher/airspace-hugo/archive/master.zip) file and extract it in the `themes` directory
 
-After that you need to go to the `meghna-hugo/exampleSite` folder and copy or cut all the elements, and now go back to the root folder and paste it here.
+After that you need to go to the `airspace-hugo/exampleSite` folder and copy or cut all the elements, and now go back to the root folder and paste it here.
 
 open the command prompt again and run `cd ../` command for go back to the root folder.
 
@@ -51,7 +51,7 @@ hugo serve
 Go to `http://localhost:1313`
 
 Or you can check this video documentation for installing this template:
-{{< youtube 3O3qvDoVp5g >}}
+{{< youtube 1wKDqma9Hl0 >}}
 
 ### STEP-5 : Basic configuration
 
@@ -59,7 +59,7 @@ When building the website, you can set a theme by using `--theme` option. Howeve
 
 ```toml
 # Change the default theme to be use when building the site with Hugo
-theme = "meghna-hugo"
+theme = "airspace-hugo"
 ```
 
 ### STEP-6 : Create your first content pages
