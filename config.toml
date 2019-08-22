@@ -79,11 +79,11 @@ caption = "View Works"
 url = "#"
 [params.slider]
 bgImage = "img/slider-bg.jpg"
-btnText = "Discover Our Projects"
+btnText = "Palveluihimme"
 enable = true
 subtitle = "Laadukkaat koulutukset vaivattomasti ja kustannustehokkaasti."
 title = "Sec And Safe Oy"
-url = "#"
+url = "http://turva.netlify.com/service"
 [params.wrapper]
 enable = true
 image = "img/wrapper-img.png"
