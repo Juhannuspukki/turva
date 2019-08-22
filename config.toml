@@ -2,30 +2,12 @@ baseURL = "https://turva.netlify.com/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 title = "Sec And Safe Oy"
-[[menu.footer]]
-name = "About us"
-url = "#"
-weight = 1
-[[menu.footer]]
-name = "Contact us"
-url = "contact"
-weight = 2
-[[menu.footer]]
-name = "How it works"
-url = "work"
-weight = 3
-[[menu.footer]]
-name = "Blog"
-url = "blog"
-weight = 4
-[[menu.footer]]
-name = "Terms"
-url = "#"
-weight = 5
+[menu]
+footer = []
 [[menu.header]]
-name = "Work"
-url = "work"
-weight = 2
+name = ""
+url = ""
+weight = ""
 [[menu.header]]
 name = "Blog"
 url = "blog"
