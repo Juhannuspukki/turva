@@ -1,4 +1,10 @@
 ---
 label: 'Testi '
 hide_body: false
-fields: []
+fields:
+- name: testi
+  type: text
+  config:
+    required: false
+  description: Testi
+  label: Testi
