@@ -87,6 +87,6 @@ url = "http://turva.netlify.com/service"
 [params.wrapper]
 enable = true
 image = "img/wrapper-img.png"
-italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
-title = "About Us"
+italic = "Arjen turvallisuutta"
+paragraph = "Koulutamme useiden eri alojen ammattilaisia, turvallisuuteen liittyen. Olit sitten sosiaali- ja terveydenhoitoalan, kaupan alan tai vaikkapa kuljetusalan ammattilainen. Turvallisuus, ensiapu sekä uhka- ja vaaratilanteiden koulutuksemme auttavat sinua kohtaamaan haastavatkin tilanteet ja selviytymään niistä.\n\nPalveluvalikoimaamme kuuluu myös ammattimaisesti laaditut pelastussuunnitelmat. Sopimuksen mukaan myös ylläpidämme ja päivitämme suunnitelmanne, joten voit jättää huolehtimisen meille.\n\nJärjestämme myös koulutuksia palo- ja pelastusturvallisuuteen, omatoimiseen varautumiseen, sisälle suojautumiseen sekä turvallisuuskävelyiden järjestämiseen liittyen.\n\nTämän lisäksi löydät meiltä myös alkusammutus, työturva sekä tulityökortti koulutukset."
+title = "Koulutuspalvelut X on nyt Sec And Safe Oy!"
