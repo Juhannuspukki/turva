@@ -17,7 +17,7 @@ name = "Palvelumme"
 url = "service"
 weight = 4
 [[menu.header]]
-name = "Contact"
+name = "Yhteydenotto"
 url = "contact"
 weight = 5
 [params]
