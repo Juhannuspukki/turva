@@ -81,8 +81,8 @@ url = "#"
 bgImage = "img/slider-bg.jpg"
 btnText = "Discover Our Projects"
 enable = true
-subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
-title = "A digital marketing &amp; design agency"
+subtitle = "Laadukkaat koulutukset vaivattomasti ja kustannustehokkaasti."
+title = "Sec And Safe Oy"
 url = "#"
 [params.wrapper]
 enable = true
