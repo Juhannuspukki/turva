@@ -37,18 +37,18 @@ url = "#"
 [params.contact]
 enable = true
 subtitle = "Don’t just take our word for it. Check out some of our latest work."
-title = "Drop us a note"
+title = "Yhteydenotto"
 [params.contact.box]
 address = "North Main Street, Brooklyn Australia"
 email = "Email: contact@mail.com"
 phone = "Phone: +88 01672 506 744"
 title = "Stop by for a visit"
 [params.contact.form]
-button = "Send message"
-email = "Your email"
-message = "Your message"
-name = "Your name"
-subject = "Your subject"
+button = "Lähetä viesti"
+email = "Sähköposti"
+message = "Viesti"
+name = "Nimi"
+subject = "Aihe"
 [params.contact.gmaps]
 title = "We Also Count in Google Maps"
 [params.feature]
