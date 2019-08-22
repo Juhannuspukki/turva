@@ -39,10 +39,10 @@ enable = true
 subtitle = "Don’t just take our word for it. Check out some of our latest work."
 title = "Yhteydenotto"
 [params.contact.box]
-address = "North Main Street, Brooklyn Australia"
-email = "Email: contact@mail.com"
-phone = "Phone: +88 01672 506 744"
-title = "Stop by for a visit"
+address = ""
+email = "info@secandsafe.fi"
+phone = "Puhelin +358 41 7107117"
+title = "Yhteystietomme"
 [params.contact.form]
 button = "Lähetä viesti"
 email = "Sähköposti"
