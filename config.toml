@@ -9,7 +9,7 @@ name = ""
 url = ""
 weight = ""
 [[menu.header]]
-name = "Blog"
+name = "Blogi"
 url = "blog"
 weight = 3
 [[menu.header]]
